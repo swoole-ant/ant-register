@@ -1,4 +1,5 @@
 <?php
+
 use ZPHP\Socket\Adapter\Swoole;
 
 return array(
